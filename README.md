@@ -17,6 +17,7 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
 
 ### 🛠️ Frameworks
 <p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -50,9 +51,9 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
 
 ---
 
-## 📈 GitHub Stats (Optional – Remove if blank)
+## 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Orel-y&show_icons=true&theme=radical" width="48%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Orel-y&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orel-y&theme=radical" width="48%"/>
 </p>
