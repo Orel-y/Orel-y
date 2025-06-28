@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hello, I'm Yoseph Wondimu</h1>
 
 <p align="center">
-🎓 A passionate 2nd-year Computer Science student <br>
-🔧 Backend Developer & Future System Architect<br>
-🚀 Currently mastering Spring Boot, Java, and DSA
+Aspiring system architect and backend developer currently pursuing a Computer Science degree in second year.
 </p>
 
 ---
@@ -17,7 +15,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🛠️ Frameworks & Tools
+### 🛠️ Frameworks
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -34,6 +32,15 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+### 🧰 Tools & Utilities
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
 ---
 
 ## 📫 How to Reach Me
@@ -43,9 +50,9 @@
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats (Optional – Remove if blank)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YosephWondimu&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosephWondimu&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Orel-y&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orel-y&theme=radical" width="48%"/>
 </p>
