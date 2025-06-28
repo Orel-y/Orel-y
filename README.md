@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Yoseph Wondimu!
 
-<!--
-**Orel-y/Orel-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year Computer Science student  
+💻 Passionate about Backend Development & System Architecture  
+🌱 Currently learning Spring Boot and mastering DSA with Java
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java, Spring Boot
+- HTML/CSS, JavaScript (basics)
+- MySQL, H2, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- Todo API with Spring Boot + JPA
+- Coming soon...
+
+## 📫 How to reach me
+- Email: your-email@example.com
+- LinkedIn: [YourProfile](https://linkedin.com/in/yourusername)
