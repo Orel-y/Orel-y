@@ -4,6 +4,11 @@
 Aspiring system architect and backend developer currently pursuing a Computer Science degree in second year.
 </p>
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orel-y&theme=radical" width="60%"/>
+</p>
 ---
 
 ## 🚀 Tech Stack
@@ -48,9 +53,3 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
 - 📧 Email: [yosephWondimu26@gmail.com](mailto:yosephWondimu26@gmail.com)
 - 🔗 LinkedIn: [Yoseph Wondimu](https://www.linkedin.com/in/yoseph-wondimu-376494265/)
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orel-y&theme=radical" width="48%"/>
-</p>
