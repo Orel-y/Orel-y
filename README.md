@@ -42,14 +42,12 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
----
 
 ## 📫 How to Reach Me
 
 - 📧 Email: [yosephWondimu26@gmail.com](mailto:yosephWondimu26@gmail.com)
 - 🔗 LinkedIn: [Yoseph Wondimu](https://www.linkedin.com/in/yoseph-wondimu-376494265/)
 
----
 
 ## 📈 GitHub Stats
 
