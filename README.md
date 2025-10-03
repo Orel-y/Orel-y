@@ -7,7 +7,7 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orel-y&theme=radical" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orel-y&theme=radical" width="100%"/>
 </p>
 ---
 
