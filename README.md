@@ -54,6 +54,5 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orel-y&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orel-y&theme=radical" width="48%"/>
 </p>
