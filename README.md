@@ -4,17 +4,9 @@
 Aspiring system architect and backend developer currently pursuing a Computer Science degree in second year.
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orel-y&theme=radical" width="800%"/>
-</p>
-
----
-
 ## 🚀 Tech Stack
 
-### 🧠 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,7 +14,7 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🛠️ Frameworks
+### Frameworks
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -32,7 +24,7 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/H2-1A237E?style=for-the-badge&logo=h2database&logoColor=white"/>
@@ -40,7 +32,7 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Utilities
+### Tools & Utilities
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -49,7 +41,7 @@ Aspiring system architect and backend developer currently pursuing a Computer Sc
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - 📧 Email: [yosephWondimu26@gmail.com](mailto:yosephWondimu26@gmail.com)
 - 🔗 LinkedIn: [Yoseph Wondimu](https://www.linkedin.com/in/yoseph-wondimu-376494265/)
