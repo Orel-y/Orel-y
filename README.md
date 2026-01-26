@@ -1,44 +1,86 @@
-<h1 align="center">👋 Hello, I'm Yoseph Wondimu</h1>
+<h1 align="start">
+  👋 Hello, I am Yoseph Wondimu
+</h1>
 
-<p align="center">
-Software developer focused on solving complex problems and designing effective, scalable solutions, with strong foundations in Data Structures, Algorithms, Object-Oriented Design, RESTful API development, and system design principles. Actively applying technical expertise in real-world environments while progressing toward a long-term career as a System Architect.</p>
-
-## 🚀 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<p align="start">
+  <span style="display:inline-block; background-color:#FF5733; color:#808080; font-weight:bold; padding:6px 12px; border-radius:12px; margin:4px;">#ALXBEGrad</span> &nbsp;
+  <span style="display:inline-block; background-color:#6f42c1; color:#808080; font-weight:bold; padding:6px 12px; border-radius:12px; margin:4px;">#A2svian</span> &nbsp;
+  <span style="display:inline-block; background-color:#0A66C2; color:#808080; font-weight:bold; padding:6px 12px; border-radius:12px; margin:4px;">Software Developer</span> &nbsp;
+  <span style="display:inline-block; background-color:#20bf6b; color:#808080; font-weight:bold; padding:6px 12px; border-radius:12px; margin:4px;">CS Student</span> &nbsp;
+  <span> 🌍 Ethiopia </span>
 </p>
 
-### Frameworks
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+
+
+<p align="start">
+Software developer focused on solving complex problems and building scalable, maintainable systems. Strong foundations in Data Structures, Algorithms, Object-Oriented Design, RESTful API development, and system design principles. Actively applying technical expertise in real-world projects while progressing toward a long-term career as a System Architect.
 </p>
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/H2-1A237E?style=for-the-badge&logo=h2database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p align="start">
+  <img src="https://komarev.com/ghpvc/?username=yoseph-wondimu&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/orel-y?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/orel-y?label=Stars&style=for-the-badge&color=ffb400" alt="Stars"/>
 </p>
 
-### Tools & Utilities
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+---
+
+### 🛠 Languages
+<p align="start">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"      width="48" height="48" alt="Java"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="48" height="48" alt="Python"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"           width="48" height="48" alt="C"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
 </p>
 
-## How to Reach Me
+### 🧩 Frameworks & Libraries
+<p align="start">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      width="48" height="48" alt="React"/>       
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="height:48px; vertical-align:middle;"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="48" height="48" alt="Express"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  width="48" height="48" alt="FastAPI"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"   width="48" height="48" alt="Spring Boot"/>
+</p>
 
-- 📧 Email: [yosephWondimu26@gmail.com](mailto:yosephWondimu26@gmail.com)
-- 🔗 LinkedIn: [Yoseph Wondimu](https://www.linkedin.com/in/yoseph-wondimu-376494265/)
+### 🗄️ Databases
+<p align="start">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      width="48" height="48" alt="MySQL"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="48" height="48" alt="MongoDB"/>       
+  <img src="https://img.shields.io/badge/H2-1A237E?style=flat-square&logo=h2database&logoColor=white" alt="H2" style="height:48px; vertical-align:middle;"/>
+</p>
+
+### 🧰 Tools & Utilities
+<p align="start">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"      width="48" height="48" alt="Git"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Insomnia"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"     width="48" height="48" alt="Bash"/>
+</p>
+
+---
+
+### 📫 Contact
+<p align="start">
+  <a href="https://www.linkedin.com/in/yoseph-wondimu-376494265/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/orel_y1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="44" height="44" alt="Telegram"/>  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yosephWondimu26@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="44" height="44" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=orel-y&show_icons=true&theme=transparent" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orel-y&layout=compact&theme=transparent" alt="Top Languages" height="160" style="margin-left: 20px;"/>
+</p>
+
+
