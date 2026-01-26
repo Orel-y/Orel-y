@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hello, I'm Yoseph Wondimu</h1>
 
 <p align="center">
-Aspiring system architect and backend developer currently pursuing a Computer Science degree in second year.
-</p>
+Software developer focused on solving complex problems and designing effective, scalable solutions, with strong foundations in Data Structures, Algorithms, Object-Oriented Design, RESTful API development, and system design principles. Actively applying technical expertise in real-world environments while progressing toward a long-term career as a System Architect.</p>
 
 ## 🚀 Tech Stack
 
