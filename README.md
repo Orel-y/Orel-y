@@ -33,14 +33,14 @@ Software developer focused on solving complex problems and building scalable, ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      width="44" height="44" alt="React"/>       
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="height:44px; vertical-align:middle;"/>       
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="height:36px; vertical-align:middle;"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="44" height="44" alt="Express"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  width="44" height="44" alt="FastAPI"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"   width="44" height="44" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      width="44" height="44" alt="MySQL"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="44" height="44" alt="MongoDB"/>       
-  <img src="https://img.shields.io/badge/H2-1A237E?style=flat-square&logo=h2database&logoColor=white" alt="H2" style="height:44px; vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/H2-1A237E?style=flat-square&logo=h2database&logoColor=white" alt="H2" style="height:36px; vertical-align:middle;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"      width="44" height="44" alt="Git"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="44" height="44" alt="Postman"/>       
