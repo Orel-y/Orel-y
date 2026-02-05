@@ -27,25 +27,25 @@ Software developer focused on solving complex problems and building scalable, ma
 
 ### 🛠 Development Kit
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"      width="48" height="48" alt="Java"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="48" height="48" alt="Python"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"           width="48" height="48" alt="C"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      width="48" height="48" alt="React"/>       
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="height:48px; vertical-align:middle;"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="48" height="48" alt="Express"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  width="48" height="48" alt="FastAPI"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"   width="48" height="48" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      width="48" height="48" alt="MySQL"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="48" height="48" alt="MongoDB"/>       
-  <img src="https://img.shields.io/badge/H2-1A237E?style=flat-square&logo=h2database&logoColor=white" alt="H2" style="height:48px; vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"      width="48" height="48" alt="Git"/>      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Insomnia"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"     width="48" height="48" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"      width="44" height="44" alt="Java"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="44" height="44" alt="Python"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"           width="44" height="44" alt="C"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      width="44" height="44" alt="React"/>       
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="height:44px; vertical-align:middle;"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="44" height="44" alt="Express"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  width="44" height="44" alt="FastAPI"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"   width="44" height="44" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      width="44" height="44" alt="MySQL"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="44" height="44" alt="MongoDB"/>       
+  <img src="https://img.shields.io/badge/H2-1A237E?style=flat-square&logo=h2database&logoColor=white" alt="H2" style="height:44px; vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"      width="44" height="44" alt="Git"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="44" height="44" alt="Postman"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="44" height="44" alt="Insomnia"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"     width="44" height="44" alt="Bash"/>
 </p>
 
 ---
