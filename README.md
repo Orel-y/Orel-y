@@ -25,34 +25,22 @@ Software developer focused on solving complex problems and building scalable, ma
 
 ---
 
-### 🛠 Languages
-<p align="start">
+### 🛠 Development Kit
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"      width="48" height="48" alt="Java"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="48" height="48" alt="Python"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"           width="48" height="48" alt="C"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-</p>
-
-### 🧩 Frameworks & Libraries
-<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      width="48" height="48" alt="React"/>       
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="height:48px; vertical-align:middle;"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="48" height="48" alt="Express"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  width="48" height="48" alt="FastAPI"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"   width="48" height="48" alt="Spring Boot"/>
-</p>
-
-### 🗄️ Databases
-<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      width="48" height="48" alt="MySQL"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"   width="48" height="48" alt="MongoDB"/>       
   <img src="https://img.shields.io/badge/H2-1A237E?style=flat-square&logo=h2database&logoColor=white" alt="H2" style="height:48px; vertical-align:middle;"/>
-</p>
-
-### 🧰 Tools & Utilities
-<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"      width="48" height="48" alt="Git"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>       
@@ -62,7 +50,7 @@ Software developer focused on solving complex problems and building scalable, ma
 
 ---
 
-### 📫 Contact
+### 📫 Reach Me
 <p align="start">
   <a href="https://www.linkedin.com/in/yoseph-wondimu-376494265/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn"/>
@@ -78,9 +66,17 @@ Software developer focused on solving complex problems and building scalable, ma
 
 ---
 
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=orel-y&show_icons=true&theme=transparent" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orel-y&layout=compact&theme=transparent" alt="Top Languages" height="160" style="margin-left: 20px;"/>
-</p>
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orel-y&show_icons=true&count_private=true&theme=tokyonight)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orel-y&layout=compact&theme=tokyonight)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orel-y&theme=tokyonight)
+
+
+
+
 
 
