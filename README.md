@@ -53,14 +53,14 @@ Software developer focused on solving complex problems and building scalable, ma
 ### 📫 Reach Me
 <p align="start">
   <a href="https://www.linkedin.com/in/yoseph-wondimu-376494265/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/orel_y1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="44" height="44" alt="Telegram"/>  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram"/>  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:yosephWondimu26@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="44" height="44" alt="Gmail"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/>
   </a>
 </p>
 
